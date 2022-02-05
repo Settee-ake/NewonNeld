@@ -1,6 +1,5 @@
-# NewonNeld
-
-The Mega Defi - where people finance their 'truly own' money. 
+# NewonNeld - The Mega Defi
+Where people finance their 'truly own' money. 
 
 *Mega crypto decentralized platform
 
