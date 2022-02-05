@@ -1,13 +1,5 @@
-# NewonNeld-ofiicial
-The Mega Defi
+# What is Dopple?
 
-*Mega crypto decentralized platform 
+Dopple Finance is a Decentralized Stablecoin Exchange. Dopple allows users to efficiently swap stablecoins and pegged assets on the Binance Smart Chain. Dopple currently supports the following stablecoins: BUSD, USDT, DAI, USDC & UST.
 
-*Automated market makers (AMMs)
-
-*Operated on Binance Smart Chain (BSC/BEP20)
-
-*End–to–end services
-
-
-***All CONTRACTS ARE PUBLICLY AVAILABLE FOR TRANSPARENCY AND SECURITY AWARENESS.
+Liquidity Providers can earn fees in form of stablecoins by supplying capital to the underlying liquidity pools. Liquidity Providers can also earn Dopple Token Rewards by farming LP tokens or by staking Dopple tokens.
