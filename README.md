@@ -10,4 +10,4 @@ The Mega Defi
 *End–to–end services
 
 
-#All contracts are publicly available for transparency and security awareness.
+***All CONTRACTS ARE PUBLICLY AVAILABLE FOR TRANSPARENCY AND SECURITY AWARENESS.
