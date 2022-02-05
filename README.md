@@ -1,8 +1,14 @@
 # NewonNeld - The Mega Defi
-Where people finance their 'truly own' money. 
 
 
-*Mega crypto decentralized platform___*Automated market makers (AMMs)___*Based on Binance Smart Chain (BSC)____*End–to–end services
+
+*Mega decentralized crypto platform
+
+*Automated market makers (AMMs)
+
+*Based on Binance Smart Chain (BSC)
+
+*End–to–end services
 
 
 
