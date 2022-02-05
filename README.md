@@ -5,7 +5,7 @@ The Mega Defi
 
 *Automated market makers (AMMs)
 
-*Based on Binance Smart Chain (BSC/BEP20)
+*Operated on Binance Smart Chain (BSC/BEP20)
 
 *End–to–end services
 
