@@ -2,7 +2,7 @@
 
 
 
-*Mega Decentralized Digital CurrencyExchange Platform
+*Mega Decentralized Digital Currency Exchange Platform
 
 *Automated market makers (AMMs)
 
