@@ -2,15 +2,15 @@
 
 
 
-*Mega decentralized crypto platform
+*Mega Decentralized Digital CurrencyExchange Platform
 
 *Automated market makers (AMMs)
 
-*Based on Binance Smart Chain (BSC)
+*Operated on Binance Smart Chain (BSC)
 
 *End–to–end services
 
 -----
 
-***ALL CONTRACTS ARE PUBLICLY AVAILABLE FOR TRANSPARENCY AND SECURITY IMPORTANCE.
+***ALL CONTRACTS ARE PUBLICLY AVAILABLE TO PROMOTE TRANSPARENCY AND SECURITY AWARENESS.
 
