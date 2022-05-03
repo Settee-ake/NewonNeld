@@ -1,8 +1,4 @@
-# NewonNeld - The Mega Defi
 
-
-
-*Mega Decentralized Digital Currency Exchange Platform
 
 *Automated market makers (AMMs)
 
